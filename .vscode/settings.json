@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "matmul_kernels.h": "c",
+        "string.h": "c",
+        "errno.h": "c",
+        "starpu.h": "c"
+    }
+}
